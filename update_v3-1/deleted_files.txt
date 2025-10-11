@@ -1,0 +1,25 @@
+# Files that should be deleted during update
+LauncherCSSPB\image\cs_assault.JPG
+LauncherCSSPB\image\cs_compound.JPG
+LauncherCSSPB\image\cs_havana.JPG
+LauncherCSSPB\image\cs_italy.JPG
+LauncherCSSPB\image\cs_militia.JPG
+LauncherCSSPB\image\cs_office.JPG
+LauncherCSSPB\image\de_aztec.JPG
+LauncherCSSPB\image\de_cbble.JPG
+LauncherCSSPB\image\de_chateau.JPG
+LauncherCSSPB\image\de_dust.JPG
+LauncherCSSPB\image\de_dust2.JPG
+LauncherCSSPB\image\de_inferno.JPG
+LauncherCSSPB\image\de_nuke.JPG
+LauncherCSSPB\image\de_piranesi.JPG
+LauncherCSSPB\image\de_port.JPG
+LauncherCSSPB\image\de_prodigy.JPG
+LauncherCSSPB\image\de_tides.JPG
+LauncherCSSPB\image\de_train.JPG
+LauncherCSSPB\image\dm_gallery.JPG
+LauncherCSSPB\image\dm_industrial_gamma.JPG
+LauncherCSSPB\image\dm_killhouse_v3.JPG
+LauncherCSSPB\image\dm_mstation_cspb.JPG
+LauncherCSSPB\image\pb.jpg
+LauncherCSSPB\image\training_aim3.JPG

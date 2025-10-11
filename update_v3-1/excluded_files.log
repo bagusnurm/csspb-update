@@ -1,0 +1,12 @@
+# Excluded Steam Files
+# Generated on: 2025-10-11 15:32:01
+
+bin/steamapps/libraryfolders.vdf
+launcher/tools/steamapps/libraryfolders.vdf
+Steam/steam.dll
+Steam/Steam2.dll
+Steam/steamclient.dll
+Steam/tier0_s.dll
+Steam/vstdlib_s.dll
+steamapps/appmanifest_232330.acf
+steamapps/libraryfolders.vdf
