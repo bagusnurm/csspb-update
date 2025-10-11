@@ -1,0 +1,2 @@
+# Files that should be deleted during update
+cstrike\addons\sourcemod\plugins\new_pb_weapon.sp
