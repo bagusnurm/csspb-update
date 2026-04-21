@@ -1,0 +1,3 @@
+# Files that should be deleted during update
+cstrike\addons\sourcemod\plugins\reloadmajor.smx
+cstrike\addons\sourcemod\scripting\reloadmajor.sp
