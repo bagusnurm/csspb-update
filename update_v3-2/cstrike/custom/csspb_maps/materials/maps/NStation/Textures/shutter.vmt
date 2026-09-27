@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maps/NStation/Textures/shutter"
+	"$translucent" 1
+	"%keywords"		"mstation"
+	"$surfaceprop"	"metal"
+}

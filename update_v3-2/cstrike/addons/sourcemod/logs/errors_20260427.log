@@ -1,0 +1,136 @@
+L 04/27/2026 - 00:05:34: SourceMod error session started
+L 04/27/2026 - 00:05:34: Info (map "de_dust2") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:05:34: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:05:34: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:05:34: [SM] Call stack trace:
+L 04/27/2026 - 00:05:34: [SM]   [0] SDKHook
+L 04/27/2026 - 00:05:34: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:14:51: Error log file session closed.
+L 04/27/2026 - 00:15:20: SourceMod error session started
+L 04/27/2026 - 00:15:20: Info (map "de_dust2") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:15:20: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:15:20: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:15:20: [SM] Call stack trace:
+L 04/27/2026 - 00:15:20: [SM]   [0] SDKHook
+L 04/27/2026 - 00:15:20: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:18:38: [SM] Exception reported: Client index 0 is invalid
+L 04/27/2026 - 00:18:38: [SM] Blaming: OverlayPackPB.smx
+L 04/27/2026 - 00:18:38: [SM] Call stack trace:
+L 04/27/2026 - 00:18:38: [SM]   [0] EmitSound
+L 04/27/2026 - 00:18:38: [SM]   [1] Line 433, sdktools_sound::EmitSoundToClient
+L 04/27/2026 - 00:18:38: [SM]   [2] Line 505, D:\Game\CSSPB\cstrike\addons\sourcemod\scripting\OverlayPackPB.sp::OnPlayerHurt
+L 04/27/2026 - 00:21:52: [SM] Exception reported: Client index 0 is invalid
+L 04/27/2026 - 00:21:52: [SM] Blaming: OverlayPackPB.smx
+L 04/27/2026 - 00:21:52: [SM] Call stack trace:
+L 04/27/2026 - 00:21:52: [SM]   [0] EmitSound
+L 04/27/2026 - 00:21:52: [SM]   [1] Line 433, sdktools_sound::EmitSoundToClient
+L 04/27/2026 - 00:21:52: [SM]   [2] Line 505, D:\Game\CSSPB\cstrike\addons\sourcemod\scripting\OverlayPackPB.sp::OnPlayerHurt
+L 04/27/2026 - 00:21:52: [SM] Exception reported: Client index 0 is invalid
+L 04/27/2026 - 00:21:52: [SM] Blaming: OverlayPackPB.smx
+L 04/27/2026 - 00:21:52: [SM] Call stack trace:
+L 04/27/2026 - 00:21:52: [SM]   [0] EmitSound
+L 04/27/2026 - 00:21:53: [SM]   [1] Line 433, sdktools_sound::EmitSoundToClient
+L 04/27/2026 - 00:21:53: [SM]   [2] Line 505, D:\Game\CSSPB\cstrike\addons\sourcemod\scripting\OverlayPackPB.sp::OnPlayerHurt
+L 04/27/2026 - 00:21:53: [SM] Exception reported: Client index 0 is invalid
+L 04/27/2026 - 00:21:53: [SM] Blaming: OverlayPackPB.smx
+L 04/27/2026 - 00:21:53: [SM] Call stack trace:
+L 04/27/2026 - 00:21:53: [SM]   [0] EmitSound
+L 04/27/2026 - 00:21:53: [SM]   [1] Line 433, sdktools_sound::EmitSoundToClient
+L 04/27/2026 - 00:21:53: [SM]   [2] Line 505, D:\Game\CSSPB\cstrike\addons\sourcemod\scripting\OverlayPackPB.sp::OnPlayerHurt
+L 04/27/2026 - 00:22:01: Error log file session closed.
+L 04/27/2026 - 00:22:31: SourceMod error session started
+L 04/27/2026 - 00:22:31: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:22:31: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:22:31: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:22:31: [SM] Call stack trace:
+L 04/27/2026 - 00:22:31: [SM]   [0] SDKHook
+L 04/27/2026 - 00:22:31: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:25:07: Error log file session closed.
+L 04/27/2026 - 00:25:33: SourceMod error session started
+L 04/27/2026 - 00:25:33: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:25:33: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:25:33: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:25:33: [SM] Call stack trace:
+L 04/27/2026 - 00:25:33: [SM]   [0] SDKHook
+L 04/27/2026 - 00:25:33: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:25:43: Error log file session closed.
+L 04/27/2026 - 00:26:08: SourceMod error session started
+L 04/27/2026 - 00:26:08: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:26:08: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:26:08: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:26:08: [SM] Call stack trace:
+L 04/27/2026 - 00:26:08: [SM]   [0] SDKHook
+L 04/27/2026 - 00:26:08: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:28:38: Error log file session closed.
+L 04/27/2026 - 00:42:22: SourceMod error session started
+L 04/27/2026 - 00:42:22: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:42:22: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:42:22: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:42:22: [SM] Call stack trace:
+L 04/27/2026 - 00:42:22: [SM]   [0] SDKHook
+L 04/27/2026 - 00:42:22: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:44:52: Error log file session closed.
+L 04/27/2026 - 00:50:01: SourceMod error session started
+L 04/27/2026 - 00:50:01: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:50:01: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:50:01: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:50:01: [SM] Call stack trace:
+L 04/27/2026 - 00:50:01: [SM]   [0] SDKHook
+L 04/27/2026 - 00:50:01: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:52:51: Error log file session closed.
+L 04/27/2026 - 00:54:12: SourceMod error session started
+L 04/27/2026 - 00:54:12: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:54:12: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:54:12: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:54:12: [SM] Call stack trace:
+L 04/27/2026 - 00:54:12: [SM]   [0] SDKHook
+L 04/27/2026 - 00:54:12: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 00:55:52: Error log file session closed.
+L 04/27/2026 - 00:58:50: SourceMod error session started
+L 04/27/2026 - 00:58:50: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 00:58:50: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 00:58:50: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 00:58:50: [SM] Call stack trace:
+L 04/27/2026 - 00:58:50: [SM]   [0] SDKHook
+L 04/27/2026 - 00:58:50: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 01:02:26: Error log file session closed.
+L 04/27/2026 - 01:04:51: SourceMod error session started
+L 04/27/2026 - 01:04:51: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 01:04:51: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 01:04:51: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 01:04:51: [SM] Call stack trace:
+L 04/27/2026 - 01:04:51: [SM]   [0] SDKHook
+L 04/27/2026 - 01:04:51: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 01:07:48: Error log file session closed.
+L 04/27/2026 - 06:14:58: SourceMod error session started
+L 04/27/2026 - 06:14:58: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 06:14:58: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 06:14:58: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 06:14:58: [SM] Call stack trace:
+L 04/27/2026 - 06:14:58: [SM]   [0] SDKHook
+L 04/27/2026 - 06:14:58: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 06:18:05: Error log file session closed.
+L 04/27/2026 - 06:28:14: SourceMod error session started
+L 04/27/2026 - 06:28:14: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 06:28:14: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 06:28:14: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 06:28:14: [SM] Call stack trace:
+L 04/27/2026 - 06:28:14: [SM]   [0] SDKHook
+L 04/27/2026 - 06:28:14: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 06:30:54: Error log file session closed.
+L 04/27/2026 - 06:31:59: SourceMod error session started
+L 04/27/2026 - 06:31:59: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 06:31:59: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 06:31:59: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 06:31:59: [SM] Call stack trace:
+L 04/27/2026 - 06:31:59: [SM]   [0] SDKHook
+L 04/27/2026 - 06:31:59: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 06:34:44: Error log file session closed.
+L 04/27/2026 - 13:44:22: SourceMod error session started
+L 04/27/2026 - 13:44:22: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260427.log")
+L 04/27/2026 - 13:44:22: [SM] Exception reported: Entity 1 is invalid
+L 04/27/2026 - 13:44:22: [SM] Blaming: WeaponGiver.smx
+L 04/27/2026 - 13:44:22: [SM] Call stack trace:
+L 04/27/2026 - 13:44:22: [SM]   [0] SDKHook
+L 04/27/2026 - 13:44:22: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/27/2026 - 13:48:04: Error log file session closed.

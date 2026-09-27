@@ -1,0 +1,56 @@
+L 04/26/2026 - 22:50:20: SourceMod error session started
+L 04/26/2026 - 22:50:20: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 22:50:20: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 22:50:20: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 22:50:20: [SM] Call stack trace:
+L 04/26/2026 - 22:50:20: [SM]   [0] SDKHook
+L 04/26/2026 - 22:50:21: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 22:53:05: Error log file session closed.
+L 04/26/2026 - 22:55:28: SourceMod error session started
+L 04/26/2026 - 22:55:28: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 22:55:28: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 22:55:29: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 22:55:29: [SM] Call stack trace:
+L 04/26/2026 - 22:55:29: [SM]   [0] SDKHook
+L 04/26/2026 - 22:55:29: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 22:58:13: Error log file session closed.
+L 04/26/2026 - 23:19:19: SourceMod error session started
+L 04/26/2026 - 23:19:19: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 23:19:19: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 23:19:19: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 23:19:19: [SM] Call stack trace:
+L 04/26/2026 - 23:19:19: [SM]   [0] SDKHook
+L 04/26/2026 - 23:19:19: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 23:21:02: Error log file session closed.
+L 04/26/2026 - 23:33:25: SourceMod error session started
+L 04/26/2026 - 23:33:25: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 23:33:25: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 23:33:25: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 23:33:25: [SM] Call stack trace:
+L 04/26/2026 - 23:33:25: [SM]   [0] SDKHook
+L 04/26/2026 - 23:33:25: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 23:34:52: Error log file session closed.
+L 04/26/2026 - 23:36:54: SourceMod error session started
+L 04/26/2026 - 23:36:54: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 23:36:54: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 23:36:54: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 23:36:54: [SM] Call stack trace:
+L 04/26/2026 - 23:36:54: [SM]   [0] SDKHook
+L 04/26/2026 - 23:36:54: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 23:37:27: Error log file session closed.
+L 04/26/2026 - 23:51:27: SourceMod error session started
+L 04/26/2026 - 23:51:27: Info (map "dm_gallery") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 23:51:27: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 23:51:27: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 23:51:27: [SM] Call stack trace:
+L 04/26/2026 - 23:51:27: [SM]   [0] SDKHook
+L 04/26/2026 - 23:51:27: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 23:54:24: Error log file session closed.
+L 04/26/2026 - 23:54:57: SourceMod error session started
+L 04/26/2026 - 23:54:57: Info (map "de_dust2") (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\errors_20260426.log")
+L 04/26/2026 - 23:54:57: [SM] Exception reported: Entity 1 is invalid
+L 04/26/2026 - 23:54:57: [SM] Blaming: WeaponGiver.smx
+L 04/26/2026 - 23:54:57: [SM] Call stack trace:
+L 04/26/2026 - 23:54:57: [SM]   [0] SDKHook
+L 04/26/2026 - 23:54:57: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 04/26/2026 - 23:57:22: Error log file session closed.

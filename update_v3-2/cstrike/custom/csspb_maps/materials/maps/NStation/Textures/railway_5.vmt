@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	"$basetexture"	"maps\NStation\Textures\railway_5"
+	"%keywords"		"mstation"
+	"$surfaceprop"	"metal"
+	%compilenoshadow 1
+}

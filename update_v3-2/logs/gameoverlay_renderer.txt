@@ -1,0 +1,113 @@
+Fri May 01 06:24:02 2026 UTC - Current process: dota2.exe
+Fri May 01 06:24:02 2026 UTC - Module file name: E:\Steam\gameoverlayrenderer64.dll
+Fri May 01 06:24:02 2026 UTC - Process ID: 11668
+Fri May 01 06:24:02 2026 UTC - GameID = 570, OverlayGameID = 570
+Fri May 01 06:24:02 2026 UTC - System page size: 4096
+Fri May 01 06:24:02 2026 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, SetCursor, and GetCursor
+Fri May 01 06:24:02 2026 UTC - Modules at GameOverlayRenderer.dll attach
+Fri May 01 06:24:02 2026 UTC - 01: dota2.exe - (00007FF799480000 to 00007FF7996CF000)
+Fri May 01 06:24:02 2026 UTC - 02: ntdll.dll - (00007FFF63040000 to 00007FFF632A8000)
+Fri May 01 06:24:02 2026 UTC - 03: KERNEL32.DLL - (00007FFF616D0000 to 00007FFF61799000)
+Fri May 01 06:24:02 2026 UTC - 04: KERNELBASE.dll - (00007FFF603A0000 to 00007FFF60798000)
+Fri May 01 06:24:02 2026 UTC - 05: apphelp.dll - (00007FFF5D240000 to 00007FFF5D2DF000)
+Fri May 01 06:24:02 2026 UTC - 06: AcGenral.DLL - (00007FFF1F890000 to 00007FFF1F901000)
+Fri May 01 06:24:02 2026 UTC - 07: msvcrt.dll - (00007FFF62ED0000 to 00007FFF62F79000)
+Fri May 01 06:24:02 2026 UTC - 08: sechost.dll - (00007FFF61D70000 to 00007FFF61E16000)
+Fri May 01 06:24:02 2026 UTC - 09: SHLWAPI.dll - (00007FFF611C0000 to 00007FFF61227000)
+Fri May 01 06:24:02 2026 UTC - 10: ucrtbase.dll - (00007FFF60250000 to 00007FFF6039B000)
+Fri May 01 06:24:02 2026 UTC - 11: USER32.dll - (00007FFF60EA0000 to 00007FFF61067000)
+Fri May 01 06:24:02 2026 UTC - 12: win32u.dll - (00007FFF60DB0000 to 00007FFF60DD7000)
+Fri May 01 06:24:02 2026 UTC - 13: GDI32.dll - (00007FFF617A0000 to 00007FFF617CB000)
+Fri May 01 06:24:02 2026 UTC - 14: gdi32full.dll - (00007FFF60B40000 to 00007FFF60C6C000)
+Fri May 01 06:24:02 2026 UTC - 15: msvcp_win.dll - (00007FFF60D00000 to 00007FFF60DA3000)
+Fri May 01 06:24:02 2026 UTC - 16: ole32.dll - (00007FFF619E0000 to 00007FFF61B77000)
+Fri May 01 06:24:02 2026 UTC - 17: combase.dll - (00007FFF61340000 to 00007FFF616CB000)
+Fri May 01 06:24:02 2026 UTC - 18: RPCRT4.dll - (00007FFF61B80000 to 00007FFF61C98000)
+Fri May 01 06:24:02 2026 UTC - 19: advapi32.dll - (00007FFF622C0000 to 00007FFF62374000)
+Fri May 01 06:24:02 2026 UTC - 20: shcore.dll - (00007FFF61800000 to 00007FFF618F2000)
+Fri May 01 06:24:02 2026 UTC - 21: SHELL32.dll - (00007FFF623E0000 to 00007FFF62B2F000)
+Fri May 01 06:24:02 2026 UTC - 22: wintypes.dll - (00007FFF609D0000 to 00007FFF60B3B000)
+Fri May 01 06:24:02 2026 UTC - 23: USERENV.dll - (00007FFF5F570000 to 00007FFF5F59B000)
+Fri May 01 06:24:02 2026 UTC - 24: MPR.dll - (00007FFF53080000 to 00007FFF530A1000)
+Fri May 01 06:24:02 2026 UTC - 25: SspiCli.dll - (00007FFF5F1F0000 to 00007FFF5F239000)
+Fri May 01 06:24:02 2026 UTC - 26: IMM32.DLL - (00007FFF62E90000 to 00007FFF62EC1000)
+Fri May 01 06:24:02 2026 UTC - 27: gameoverlayrenderer64.dll - (00007FFF11D50000 to 00007FFF11EFC000)
+Fri May 01 06:24:02 2026 UTC - 28: OLEAUT32.dll - (00007FFF61900000 to 00007FFF619D7000)
+Fri May 01 06:24:02 2026 UTC - 29: PSAPI.DLL - (00007FFF61CA0000 to 00007FFF61CA8000)
+Fri May 01 06:24:02 2026 UTC - 30: WINMM.dll - (00007FFF56930000 to 00007FFF56965000)
+Fri May 01 06:24:02 2026 UTC - 31: CFGMGR32.dll - (00007FFF5FD30000 to 00007FFF5FD87000)
+Fri May 01 06:24:02 2026 UTC - ----------------------------
+Fri May 01 06:24:37 2026 UTC - Sending device notification
+Fri May 01 06:24:37 2026 UTC - Sending device notification
+Fri May 01 06:24:41 2026 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Fri May 01 06:24:41 2026 UTC - hookCreateDXGIFactory called
+Fri May 01 06:24:41 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:41 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:41 2026 UTC - hookCreateDXGIFactory1 called
+Fri May 01 06:24:41 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:41 2026 UTC - DXGIFactory1_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory2
+Fri May 01 06:24:41 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:41 2026 UTC - hookCreateDXGIFactory1 called
+Fri May 01 06:24:41 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:41 2026 UTC - DXGIFactory1_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory2
+Fri May 01 06:24:41 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:44 2026 UTC - Game is using D3D9 or D3D9Ex, preparing to hook.
+Fri May 01 06:24:45 2026 UTC - hookCreateDXGIFactory1 called
+Fri May 01 06:24:45 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:45 2026 UTC - DXGIFactory1_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory2
+Fri May 01 06:24:45 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:45 2026 UTC - hookDirect3DCreate9 called
+Fri May 01 06:24:50 2026 UTC - hookCreateDXGIFactory1 called
+Fri May 01 06:24:50 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:50 2026 UTC - DXGIFactory1_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory2
+Fri May 01 06:24:50 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:50 2026 UTC - hookCreateDXGIFactory1 called
+Fri May 01 06:24:50 2026 UTC - Hooking vtable for factory
+Fri May 01 06:24:50 2026 UTC - DXGIFactory1_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory2
+Fri May 01 06:24:50 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Fri May 01 06:24:51 2026 UTC - IWrapDXGIFactory::CreateSwapChain called
+Fri May 01 06:24:51 2026 UTC - Hooking vtable for swap chain
+Fri May 01 06:24:51 2026 UTC - Hooking vtable for swap chain1
+Fri May 01 06:24:51 2026 UTC - Hooking vtable for swap chain3
+Fri May 01 06:24:51 2026 UTC - Trying to detour d3d11 device
+Fri May 01 06:24:51 2026 UTC - Hooking vtable for device
+Fri May 01 06:24:51 2026 UTC - Tracking new device: 4195260
+Fri May 01 06:24:51 2026 UTC - Tracking new swap chain: 2f1bb10 (with device: 4195260)
+Fri May 01 06:24:51 2026 UTC - Creating D3D11 renderer
+Fri May 01 06:24:51 2026 UTC - Initializing Audio...
+Fri May 01 06:24:51 2026 UTC - ValveGetScreenSize( 1920, 1080 )
+Fri May 01 06:25:19 2026 UTC - IAudioClient_Initialize - SUCCEEDED
+Fri May 01 06:25:19 2026 UTC - Audio client initialized: 0x000001EE1B667D38
+Fri May 01 06:25:19 2026 UTC - Device:
+Fri May 01 06:25:19 2026 UTC - Audio client mix format:
+Fri May 01 06:25:19 2026 UTC - 	format: 65534
+Fri May 01 06:25:19 2026 UTC - 	channels: 2
+Fri May 01 06:25:19 2026 UTC - 	samples/sec: 44100
+Fri May 01 06:25:19 2026 UTC - 	bytes/sec: 352800
+Fri May 01 06:25:19 2026 UTC - 	alignment: 8
+Fri May 01 06:25:19 2026 UTC - 	bits/sample: 32
+Fri May 01 06:25:19 2026 UTC - 	channel mask: 0x3
+Fri May 01 06:25:19 2026 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Fri May 01 06:25:19 2026 UTC - Audio hooked
+Fri May 01 06:25:19 2026 UTC - Audio client started: 0x000001EE1B667D38, 1
+Fri May 01 06:26:21 2026 UTC - IAudioClient_Initialize - SUCCEEDED
+Fri May 01 06:26:21 2026 UTC - Audio client initialized: 0x000001EE2D000798
+Fri May 01 06:26:21 2026 UTC - Device:
+Fri May 01 06:26:21 2026 UTC - Audio client mix format:
+Fri May 01 06:26:21 2026 UTC - 	format: 65534
+Fri May 01 06:26:21 2026 UTC - 	channels: 2
+Fri May 01 06:26:21 2026 UTC - 	samples/sec: 44100
+Fri May 01 06:26:21 2026 UTC - 	bytes/sec: 352800
+Fri May 01 06:26:21 2026 UTC - 	alignment: 8
+Fri May 01 06:26:21 2026 UTC - 	bits/sample: 32
+Fri May 01 06:26:21 2026 UTC - 	channel mask: 0x3
+Fri May 01 06:26:21 2026 UTC - 	data format: {00000003-0000-0010-8000-00AA00389B71}
+Fri May 01 06:26:21 2026 UTC - Audio client started: 0x000001EE2D000798, 2
+Fri May 01 06:26:24 2026 UTC - Disabling overlay for 2 seconds (92 seconds since last frame from ui process was seen)
+Fri May 01 06:27:34 2026 UTC - Trying to setup input hook...
+Fri May 01 06:27:34 2026 UTC - Set input hook...
+Fri May 01 06:27:34 2026 UTC - ValveGetOutputBounds( 0, 0, 1920, 1080)
+Fri May 01 06:52:04 2026 UTC - DeleteD3D11RendererForSwapChain called for: 000001EE02F1BB10
+Fri May 01 06:52:04 2026 UTC - Releasing all resources for device: 000001EE04195260
+Fri May 01 06:52:04 2026 UTC - Detaching input hook...
+Fri May 01 06:52:08 2026 UTC - GameOverlayRenderer.dll detaching

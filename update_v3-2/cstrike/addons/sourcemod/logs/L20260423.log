@@ -1,0 +1,370 @@
+L 04/23/2026 - 00:03:03: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:03:03: Log file closed.
+L 04/23/2026 - 00:03:26: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:03:26: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:03:26: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:03:28: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:03:28: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:03:28: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:03:28: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:04:19: Log file closed.
+L 04/23/2026 - 00:05:19: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:05:19: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:05:19: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:05:20: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:05:20: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:05:20: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:05:21: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:08:22: Log file closed.
+L 04/23/2026 - 00:08:48: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:08:48: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:08:48: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:08:50: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:08:50: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:08:50: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:08:50: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:09:32: Log file closed.
+L 04/23/2026 - 00:09:58: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:09:58: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:09:58: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:10:00: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:10:00: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:10:00: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:10:00: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:13:07: Log file closed.
+L 04/23/2026 - 00:13:29: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:13:29: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:13:29: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:13:31: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:13:31: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:13:31: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:13:31: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:15:20: Log file closed.
+L 04/23/2026 - 00:15:43: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:15:43: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:15:43: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:15:45: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:15:45: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:15:45: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:15:45: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:16:10: Log file closed.
+L 04/23/2026 - 00:16:33: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:16:33: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:16:33: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:16:35: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:16:35: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:16:35: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:16:35: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:18:48: Log file closed.
+L 04/23/2026 - 00:19:12: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:19:12: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:19:12: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:19:14: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:19:14: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:19:14: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:19:14: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:22:25: Log file closed.
+L 04/23/2026 - 00:22:49: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:22:49: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:22:49: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:22:50: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:22:50: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:22:50: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:22:50: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:27:12: Log file closed.
+L 04/23/2026 - 00:27:43: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:27:43: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:27:43: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:27:45: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:27:45: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:27:45: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:27:45: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:27:58: Log file closed.
+L 04/23/2026 - 00:28:20: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:28:20: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:28:20: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:28:22: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:28:22: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:28:22: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:28:22: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:31:32: Log file closed.
+L 04/23/2026 - 00:42:59: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:42:59: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:42:59: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:43:03: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:43:03: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:43:03: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:43:03: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:45:11: Log file closed.
+L 04/23/2026 - 00:45:44: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:45:44: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:45:44: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:45:46: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:45:46: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:45:46: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:45:46: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:49:03: Log file closed.
+L 04/23/2026 - 00:55:23: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:55:23: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:55:23: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:55:25: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:55:25: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:55:25: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:55:25: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 00:57:42: Log file closed.
+L 04/23/2026 - 00:58:12: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 00:58:12: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:58:12: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:58:13: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 00:58:13: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 00:58:13: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 00:58:13: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:00:58: Log file closed.
+L 04/23/2026 - 01:13:12: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:13:12: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:13:12: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:13:14: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:13:14: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:13:14: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:13:14: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:16:35: Log file closed.
+L 04/23/2026 - 01:28:55: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:28:55: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:28:55: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:28:56: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:28:57: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:28:57: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:28:57: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:30:31: Log file closed.
+L 04/23/2026 - 01:31:18: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:31:18: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:31:18: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:31:19: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:31:19: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:31:19: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:31:19: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:32:18: Log file closed.
+L 04/23/2026 - 01:32:46: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:32:46: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:32:46: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:32:47: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:32:47: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:32:47: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:32:47: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:34:45: Log file closed.
+L 04/23/2026 - 01:35:13: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:35:13: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:35:13: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:35:14: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:35:14: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:35:14: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:35:14: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:35:30: Log file closed.
+L 04/23/2026 - 01:36:06: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:36:06: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:36:06: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:36:07: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:36:07: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:36:07: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:36:07: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:39:28: Log file closed.
+L 04/23/2026 - 01:39:55: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:39:55: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:39:55: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:39:57: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:39:57: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:39:57: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:39:57: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:42:37: Log file closed.
+L 04/23/2026 - 01:43:27: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:43:27: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:43:27: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:43:28: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:43:28: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:43:28: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:43:28: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:45:57: Log file closed.
+L 04/23/2026 - 01:51:26: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:51:26: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:51:26: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:51:29: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:51:29: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:51:29: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:51:29: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:53:21: Log file closed.
+L 04/23/2026 - 01:53:40: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 01:53:40: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:53:40: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:53:41: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 01:53:41: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 01:53:41: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 01:53:41: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 01:56:16: Log file closed.
+L 04/23/2026 - 08:22:11: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 08:22:11: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:22:11: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:22:16: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:22:16: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:22:16: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 08:22:16: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 08:25:29: Log file closed.
+L 04/23/2026 - 08:25:57: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 08:25:57: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:25:57: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:25:59: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:25:59: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:25:59: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 08:25:59: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 08:28:51: Log file closed.
+L 04/23/2026 - 08:45:19: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 08:45:19: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:45:19: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:45:24: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:45:24: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:45:24: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 08:45:24: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 08:48:34: Log file closed.
+L 04/23/2026 - 08:51:53: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 08:51:53: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:51:53: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:51:55: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 08:51:55: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 08:51:55: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 08:51:55: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 08:55:14: Log file closed.
+L 04/23/2026 - 13:19:03: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 13:19:03: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:19:03: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:19:09: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:19:09: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:19:09: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 13:19:09: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 13:22:12: Log file closed.
+L 04/23/2026 - 13:24:22: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 13:24:22: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:24:22: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:24:24: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:24:24: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:24:24: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 13:24:24: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 13:26:22: Log file closed.
+L 04/23/2026 - 13:26:48: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 13:26:48: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:26:48: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:26:49: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:26:49: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:26:49: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 13:26:49: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 13:29:11: Log file closed.
+L 04/23/2026 - 13:54:18: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 13:54:18: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:54:18: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:54:23: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:54:23: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:54:23: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 13:54:23: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 13:56:50: Log file closed.
+L 04/23/2026 - 13:57:58: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 13:57:58: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:57:58: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:57:59: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 13:57:59: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 13:57:59: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 13:57:59: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 14:00:16: Log file closed.
+L 04/23/2026 - 20:36:14: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 20:36:14: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 20:36:14: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 20:36:20: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 20:36:20: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 20:36:20: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 20:36:20: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 20:39:23: Log file closed.
+L 04/23/2026 - 20:46:53: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 20:46:53: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 20:46:53: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 20:46:54: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 20:46:54: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 20:46:54: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 20:46:54: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 20:49:45: Log file closed.
+L 04/23/2026 - 21:04:13: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:04:13: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:04:13: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:04:15: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:04:15: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:04:15: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:04:15: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:07:36: Log file closed.
+L 04/23/2026 - 21:08:43: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:08:43: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:08:43: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:08:43: [zoom_cycle.smx] [CustomScope] Loaded: weapon_l115a1 -> max_zoom_cycle: 1
+L 04/23/2026 - 21:08:43: [zoom_cycle.smx] [CustomScope] Loaded: weapon_m200 -> max_zoom_cycle: 1
+L 04/23/2026 - 21:08:43: [zoom_cycle.smx] [CustomScope] Total 2 weapon(s) loaded.
+L 04/23/2026 - 21:08:44: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:08:44: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:08:44: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:08:44: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:08:44: [zoom_cycle.smx] [CustomScope] Loaded: weapon_l115a1 -> max_zoom_cycle: 1
+L 04/23/2026 - 21:08:44: [zoom_cycle.smx] [CustomScope] Loaded: weapon_m200 -> max_zoom_cycle: 1
+L 04/23/2026 - 21:08:44: [zoom_cycle.smx] [CustomScope] Total 2 weapon(s) loaded.
+L 04/23/2026 - 21:11:20: Log file closed.
+L 04/23/2026 - 21:22:52: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:22:52: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:22:52: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:22:52: [zoom_cycle.smx] [ZoomCycle] Loaded 2 weapon(s) from config.
+L 04/23/2026 - 21:22:53: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:22:53: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:22:53: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:22:53: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:22:53: [zoom_cycle.smx] [ZoomCycle] Loaded 2 weapon(s) from config.
+L 04/23/2026 - 21:25:49: Log file closed.
+L 04/23/2026 - 21:26:16: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:26:16: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:26:16: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:26:18: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:26:18: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:26:18: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:26:18: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:27:33: Log file closed.
+L 04/23/2026 - 21:27:55: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:27:55: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:27:55: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:27:57: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:27:57: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:27:57: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:27:57: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:30:47: Log file closed.
+L 04/23/2026 - 21:33:04: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:33:04: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:33:04: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:33:06: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:33:06: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:33:06: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:33:06: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:35:23: Log file closed.
+L 04/23/2026 - 21:35:55: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:35:55: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:35:55: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:35:57: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:35:57: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:35:57: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:35:57: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:36:34: Log file closed.
+L 04/23/2026 - 21:41:33: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:41:33: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:41:33: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:41:34: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:41:34: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:41:34: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:41:34: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:44:19: Log file closed.
+L 04/23/2026 - 21:44:49: SourceMod log file session started (file "D:\Game\CSSPB\cstrike\addons\sourcemod\logs\L20260423.log") (Version "1.11.0.6970")
+L 04/23/2026 - 21:44:49: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:44:49: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:44:51: [weapon_b_mode.smx] Loaded weapon mode: krisssvd -> v_dualkrisssvd.mdl (Zoom: 0, OwnAmmo: 1, SeqAlt: 2, SeqOrig: 2, Sound: weapons/dualkriss/dualkriss-1.wav)
+L 04/23/2026 - 21:44:51: [weapon_b_mode.smx] Loaded 1 weapon modes
+L 04/23/2026 - 21:44:51: [weapon_b_mode.smx] Precached model: models/weapons/v_dualkrisssvd.mdl
+L 04/23/2026 - 21:44:51: [weapon_b_mode.smx] Precached sound: weapons/dualkriss/dualkriss-1.wav
+L 04/23/2026 - 21:46:12: Log file closed.

@@ -1,0 +1,114 @@
+Mon Apr 27 16:57:58 2026 UTC - Current process: MonsterHunterRise.exe
+Mon Apr 27 16:57:58 2026 UTC - Module file name: E:\Steam\gameoverlayrenderer64.dll
+Mon Apr 27 16:57:58 2026 UTC - Process ID: 3584
+Mon Apr 27 16:57:58 2026 UTC - GameID = 1446780, OverlayGameID = 1446780
+Mon Apr 27 16:57:58 2026 UTC - System page size: 4096
+Mon Apr 27 16:57:58 2026 UTC - Hooking SetCursorPos, GetCursorPos, ShowCursor, SetCursor, and GetCursor
+Mon Apr 27 16:57:58 2026 UTC - Game is using dxgi (dx10/dx11), preparing to hook.
+Mon Apr 27 16:57:58 2026 UTC - Game is using dinput8, preparing to hook.
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputEnable Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetAudioDeviceIds Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetBatteryInformation Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetCapabilities Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetCapabilitiesEx Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetKeystroke Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetState Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputGetStateEx Version 14
+Mon Apr 27 16:57:58 2026 UTC - XInput Hooked XInputSetState Version 14
+Mon Apr 27 16:57:58 2026 UTC - Modules at GameOverlayRenderer.dll attach
+Mon Apr 27 16:57:58 2026 UTC - 01: MonsterHunterRise.exe - (00007FF7B6D40000 to 00007FF7C9BDD000)
+Mon Apr 27 16:57:58 2026 UTC - 02: ntdll.dll - (00007FFC2FF90000 to 00007FFC30185000)
+Mon Apr 27 16:57:58 2026 UTC - 03: KERNEL32.DLL - (00007FFC2E000000 to 00007FFC2E0BD000)
+Mon Apr 27 16:57:58 2026 UTC - 04: KERNELBASE.dll - (00007FFC2D760000 to 00007FFC2DA28000)
+Mon Apr 27 16:57:58 2026 UTC - 05: user32.dll - (00007FFC2FDB0000 to 00007FFC2FF50000)
+Mon Apr 27 16:57:58 2026 UTC - 06: win32u.dll - (00007FFC2DB60000 to 00007FFC2DB82000)
+Mon Apr 27 16:57:58 2026 UTC - 07: GDI32.dll - (00007FFC2FBC0000 to 00007FFC2FBEA000)
+Mon Apr 27 16:57:58 2026 UTC - 08: gdi32full.dll - (00007FFC2DC90000 to 00007FFC2DD9B000)
+Mon Apr 27 16:57:58 2026 UTC - 09: msvcp_win.dll - (00007FFC2DBF0000 to 00007FFC2DC8D000)
+Mon Apr 27 16:57:58 2026 UTC - 10: ucrtbase.dll - (00007FFC2DDA0000 to 00007FFC2DEA0000)
+Mon Apr 27 16:57:58 2026 UTC - 11: advapi32.dll - (00007FFC2F890000 to 00007FFC2F93C000)
+Mon Apr 27 16:57:58 2026 UTC - 12: msvcrt.dll - (00007FFC2E310000 to 00007FFC2E3AE000)
+Mon Apr 27 16:57:58 2026 UTC - 13: sechost.dll - (00007FFC2F940000 to 00007FFC2F9DB000)
+Mon Apr 27 16:57:58 2026 UTC - 14: RPCRT4.dll - (00007FFC2EF80000 to 00007FFC2F0AB000)
+Mon Apr 27 16:57:58 2026 UTC - 15: oleaut32.dll - (00007FFC2E130000 to 00007FFC2E1FD000)
+Mon Apr 27 16:57:58 2026 UTC - 16: combase.dll - (00007FFC2F530000 to 00007FFC2F885000)
+Mon Apr 27 16:57:58 2026 UTC - 17: shell32.dll - (00007FFC2E460000 to 00007FFC2EB9F000)
+Mon Apr 27 16:57:58 2026 UTC - 18: ole32.dll - (00007FFC2FA90000 to 00007FFC2FBBA000)
+Mon Apr 27 16:57:58 2026 UTC - 19: SHLWAPI.dll - (00007FFC2E0C0000 to 00007FFC2E115000)
+Mon Apr 27 16:57:58 2026 UTC - 20: IMM32.dll - (00007FFC2FBF0000 to 00007FFC2FC20000)
+Mon Apr 27 16:57:58 2026 UTC - 21: version.dll - (00007FFC257F0000 to 00007FFC257FA000)
+Mon Apr 27 16:57:58 2026 UTC - 22: WS2_32.dll - (00007FFC2FD40000 to 00007FFC2FDAB000)
+Mon Apr 27 16:57:58 2026 UTC - 23: SETUPAPI.dll - (00007FFC2F0C0000 to 00007FFC2F529000)
+Mon Apr 27 16:57:58 2026 UTC - 24: MSVCP140.dll - (00007FFBDD5D0000 to 00007FFBDD659000)
+Mon Apr 27 16:57:58 2026 UTC - 25: WINMM.dll - (00007FFC20F20000 to 00007FFC20F47000)
+Mon Apr 27 16:57:58 2026 UTC - 26: cfgmgr32.dll - (00007FFC2DAE0000 to 00007FFC2DB2E000)
+Mon Apr 27 16:57:58 2026 UTC - 27: bcrypt.dll - (00007FFC2DB30000 to 00007FFC2DB57000)
+Mon Apr 27 16:57:58 2026 UTC - 28: d3d11.dll - (00007FFC29410000 to 00007FFC29674000)
+Mon Apr 27 16:57:58 2026 UTC - 29: CONCRT140.dll - (00007FFBDD580000 to 00007FFBDD5CE000)
+Mon Apr 27 16:57:58 2026 UTC - 30: dxgi.dll - (00007FFC2C010000 to 00007FFC2C104000)
+Mon Apr 27 16:57:58 2026 UTC - 31: MFPlat.DLL - (00007FFC06B00000 to 00007FFC06CBC000)
+Mon Apr 27 16:57:58 2026 UTC - 32: XINPUT1_4.dll - (00007FFC1A110000 to 00007FFC1A121000)
+Mon Apr 27 16:57:58 2026 UTC - 33: shcore.dll - (00007FFC2E3B0000 to 00007FFC2E45E000)
+Mon Apr 27 16:57:58 2026 UTC - 34: IPHLPAPI.DLL - (00007FFC2CB50000 to 00007FFC2CB8B000)
+Mon Apr 27 16:57:58 2026 UTC - 35: WINHTTP.dll - (00007FFC25800000 to 00007FFC2590B000)
+Mon Apr 27 16:57:58 2026 UTC - 36: DINPUT8.dll - (00007FFBAA3C0000 to 00007FFBAAFD8000)
+Mon Apr 27 16:57:58 2026 UTC - 37: dbghelp.dll - (00007FFC1F3C0000 to 00007FFC1F5A4000)
+Mon Apr 27 16:57:58 2026 UTC - 38: MFReadWrite.dll - (00007FFBFD490000 to 00007FFBFD59A000)
+Mon Apr 27 16:57:58 2026 UTC - 39: amd_ags_x64.dll - (00007FFC291C0000 to 00007FFC291CF000)
+Mon Apr 27 16:57:58 2026 UTC - 40: VCRUNTIME140_1.dll - (00007FFBFB5A0000 to 00007FFBFB5AC000)
+Mon Apr 27 16:57:58 2026 UTC - 41: VCRUNTIME140.dll - (00007FFC280B0000 to 00007FFC280CE000)
+Mon Apr 27 16:57:58 2026 UTC - 42: HID.DLL - (00007FFC2BFD0000 to 00007FFC2BFDD000)
+Mon Apr 27 16:57:58 2026 UTC - 43: COMDLG32.dll - (00007FFC2E200000 to 00007FFC2E2DA000)
+Mon Apr 27 16:57:58 2026 UTC - 44: DEVOBJ.dll - (00007FFC2D480000 to 00007FFC2D4AC000)
+Mon Apr 27 16:57:58 2026 UTC - 45: COMCTL32.dll - (00007FFC22050000 to 00007FFC22100000)
+Mon Apr 27 16:57:58 2026 UTC - 46: kernel.appcore.dll - (00007FFC2B560000 to 00007FFC2B572000)
+Mon Apr 27 16:57:58 2026 UTC - 47: bcryptPrimitives.dll - (00007FFC2D6D0000 to 00007FFC2D753000)
+Mon Apr 27 16:57:58 2026 UTC - 48: RTWorkQ.DLL - (00007FFC06900000 to 00007FFC06930000)
+Mon Apr 27 16:57:58 2026 UTC - 49: gameoverlayrenderer64.dll - (00007FFBABDB0000 to 00007FFBABF5C000)
+Mon Apr 27 16:57:58 2026 UTC - 50: PSAPI.DLL - (00007FFC2E2E0000 to 00007FFC2E2E8000)
+Mon Apr 27 16:57:58 2026 UTC - ----------------------------
+Mon Apr 27 16:58:08 2026 UTC - hookCreateDXGIFactory1 called
+Mon Apr 27 16:58:08 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:08 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:08 2026 UTC - hookCreateDXGIFactory2 called
+Mon Apr 27 16:58:08 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:08 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:08 2026 UTC - hookCreateDXGIFactory2 called
+Mon Apr 27 16:58:08 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:08 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:08 2026 UTC - hookCreateDXGIFactory2 called
+Mon Apr 27 16:58:08 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:08 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:08 2026 UTC - hookCreateDXGIFactory2 called
+Mon Apr 27 16:58:08 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:08 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:09 2026 UTC - hookCreateDXGIFactory called
+Mon Apr 27 16:58:09 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:09 2026 UTC - DXGIFactory_CreateSwapChain already hooked via IDXGIFactory1 or IDXGIFactory2
+Mon Apr 27 16:58:09 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:10 2026 UTC - hookCreateDXGIFactory1 called
+Mon Apr 27 16:58:10 2026 UTC - Hooking vtable for factory
+Mon Apr 27 16:58:10 2026 UTC - DXGIFactory2_CreateSwapChain already hooked via IDXGIFactory or IDXGIFactory1
+Mon Apr 27 16:58:10 2026 UTC - Registering HWND 0000000000070C46 for device notifications
+Mon Apr 27 16:58:10 2026 UTC - Creating IWrapWbemLocator
+Mon Apr 27 16:58:10 2026 UTC - CoCreateInstance hook created WbemLocator interface 000002DF8C932940
+Mon Apr 27 16:58:10 2026 UTC - Creating IWrapEnumWbemClassObject
+Mon Apr 27 16:58:10 2026 UTC - IWrapEnumWbemClassObject 000002E095479380 deleting
+Mon Apr 27 16:58:10 2026 UTC - IWrapWbemLocator 000002DF8C932940 deleting
+Mon Apr 27 16:58:10 2026 UTC - IWrapDXGIFactory2::IDXGIFactory2_CreateSwapChainForHWND called
+Mon Apr 27 16:58:10 2026 UTC - Hooking vtable for swap chain
+Mon Apr 27 16:58:10 2026 UTC - Hooking vtable for swap chain1
+Mon Apr 27 16:58:10 2026 UTC - Hooking vtable for swap chain3
+Mon Apr 27 16:58:10 2026 UTC - Trying to detour d3d11 device
+Mon Apr 27 16:58:10 2026 UTC - Trying to detour d3d10 device
+Mon Apr 27 16:58:10 2026 UTC - Couldn't find d3d11/10 device to detour, trying dx12
+Mon Apr 27 16:58:10 2026 UTC - Trying to detour d3d12 device
+Mon Apr 27 16:58:10 2026 UTC - Hooking vtable for device
+Mon Apr 27 16:58:10 2026 UTC - Tracking new device: a415a610
+Mon Apr 27 16:58:10 2026 UTC - Tracking new swap chain: 9548de30 (with device: a415a610)
+Mon Apr 27 16:58:10 2026 UTC - Creating D3D12 renderer
+Mon Apr 27 16:58:10 2026 UTC - Releasing all resources for swapchain/device: 000002E09548DE30/000002DFA415A610
+Mon Apr 27 16:58:10 2026 UTC - DeleteD3D12RendererForSwapChain called for: 000002E09548DE30
+Mon Apr 27 16:58:10 2026 UTC - Releasing all resources for swapchain/device: 000002E09548DE30/000002DFA415A610
+Mon Apr 27 16:58:10 2026 UTC - Found a hooked function in now unloaded module, removing from map.
+Mon Apr 27 16:58:10 2026 UTC - GameOverlayRenderer.dll detaching

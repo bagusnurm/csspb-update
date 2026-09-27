@@ -1,0 +1,15 @@
+// HLTV overview description file for dm_mstation_cspb.bsp by Rahmat Efendi
+
+"dm_mstation_cspb"
+{
+	"material"	"maps/NStation/Images/mini_NStation"
+	"pos_x"		"-2177"
+	"pos_y"		"2067"
+	"scale"		"4.25" 
+	"rotate"	"1"
+	"zoom"		"2.5"	
+}
+
+//Overview: scale 4.25, pos_x -2177, pos_y 2067
+//maps/dm_mstation_cspb_commentary.txt
+

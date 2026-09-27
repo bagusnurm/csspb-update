@@ -1,0 +1,32 @@
+L 05/01/2026 - 08:32:27: SourceMod error session started
+L 05/01/2026 - 08:32:27: Info (map "dm_gallery") (file "d:\game\csspb\cstrike\addons\sourcemod\logs\errors_20260501.log")
+L 05/01/2026 - 08:32:27: [SM] Exception reported: Entity 1 is invalid
+L 05/01/2026 - 08:32:27: [SM] Blaming: WeaponGiver.smx
+L 05/01/2026 - 08:32:27: [SM] Call stack trace:
+L 05/01/2026 - 08:32:27: [SM]   [0] SDKHook
+L 05/01/2026 - 08:32:27: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 05/01/2026 - 08:35:28: Error log file session closed.
+L 05/01/2026 - 22:30:44: SourceMod error session started
+L 05/01/2026 - 22:30:44: Info (map "dm_gallery") (file "d:\game\csspb\cstrike\addons\sourcemod\logs\errors_20260501.log")
+L 05/01/2026 - 22:30:44: [SM] Exception reported: Entity 1 is invalid
+L 05/01/2026 - 22:30:44: [SM] Blaming: WeaponGiver.smx
+L 05/01/2026 - 22:30:44: [SM] Call stack trace:
+L 05/01/2026 - 22:30:44: [SM]   [0] SDKHook
+L 05/01/2026 - 22:30:44: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 05/01/2026 - 22:33:34: Error log file session closed.
+L 05/01/2026 - 22:34:02: SourceMod error session started
+L 05/01/2026 - 22:34:02: Info (map "dm_gallery") (file "d:\game\csspb\cstrike\addons\sourcemod\logs\errors_20260501.log")
+L 05/01/2026 - 22:34:02: [SM] Exception reported: Entity 1 is invalid
+L 05/01/2026 - 22:34:02: [SM] Blaming: WeaponGiver.smx
+L 05/01/2026 - 22:34:02: [SM] Call stack trace:
+L 05/01/2026 - 22:34:02: [SM]   [0] SDKHook
+L 05/01/2026 - 22:34:02: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 05/01/2026 - 22:36:38: Error log file session closed.
+L 05/01/2026 - 22:37:14: SourceMod error session started
+L 05/01/2026 - 22:37:14: Info (map "dm_gallery") (file "d:\game\csspb\cstrike\addons\sourcemod\logs\errors_20260501.log")
+L 05/01/2026 - 22:37:14: [SM] Exception reported: Entity 1 is invalid
+L 05/01/2026 - 22:37:14: [SM] Blaming: WeaponGiver.smx
+L 05/01/2026 - 22:37:14: [SM] Call stack trace:
+L 05/01/2026 - 22:37:14: [SM]   [0] SDKHook
+L 05/01/2026 - 22:37:14: [SM]   [1] Line 563, D:\Game\CSSPB v2.0\cstrike\addons\sourcemod\scripting\WeaponGiver.sp::OnClientConnected
+L 05/01/2026 - 22:39:34: Error log file session closed.

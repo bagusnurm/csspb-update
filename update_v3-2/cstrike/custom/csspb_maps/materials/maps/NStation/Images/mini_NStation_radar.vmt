@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+
+	"$translucent" "1"
+	"$baseTexture" "maps/NPort/Images/mini_NStation"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$no_fullbright" "1"
+	"$ignorez" "1"
+}

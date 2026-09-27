@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture"	"maps\NStation\Textures\base_9_1"
+	"%keywords"		"mstation"
+	"$basealphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"envmaptint" "[.125 .125 .1]"
+	"$envmapmode" 1
+	"$surfaceprop"	"tile"
+}
